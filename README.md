@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Hashir Aziz
+#  Hi, I'm Hashir Aziz
 A passionate AI Engineer || Problem Solver || 
 
-# 🚀 About Me
+#  About Me
 I am a graduate in Artificial Intelligence with hands-on experience in real-world AI projects. Passionate about building innovative solutions in Machine Learning, Deep Learning, NLP, and Computer Vision. Always eager to collaborate on cutting-edge technologies and contribute to impactful projects.
 
 📍 Islamabad, Pakistan
